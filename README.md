@@ -1,12 +1,12 @@
 ### Hi connections👋
 
-🌱"I'm a full stack learner(MERN).
+🌱"I'm a react developer and full stack learner(MERN).
 
-🌱Have experience on html,css,js,react.js, tailwind css.
+🌱Have experience on html,css,js,react.js,next.js, tailwind css.
 
 🔭 I’m currently working on NodeJS Projects.
 
-👯 I'm open to collaboration in areas like React,Node js.
+👯 I'm open to collaboration in areas like React.js, Next.js, Node js.
 
 <!--
 **Rohan-chy/Rohan-chy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
