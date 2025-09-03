@@ -1,10 +1,10 @@
 ### Hi connections👋
 
-🌱"I'm a react developer and full stack learner(MERN).
+🌱"I'm a Fullstack Developer, currently working as a frontend software developer.
 
-🌱Have experience on html,css,js,react.js,next.js, tailwind css.
+🌱Have experience on js, ts, reactjs, nextjs, shadcn, react-table, react-query, react-hook-form, redux-toolkit, zod.
 
-🔭 I’m currently working on NodeJS Projects.
+🔭 I’m currently working on ERP Project i.e.DynamicEMR.
 
 👯 I'm open to collaboration in areas like React.js, Next.js, Node js.
 
